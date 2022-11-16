@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @iamdurlove
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-iamdurlove/iamdurlove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am designed minded:
+✅Front End Developer (React JS, NextJS, Laravel)
+✅Back End Developer (Laravel, MySQL, NodeJS, ExpressJS, MongoDB)
+✅Programmer (C, C++, C#, Python, Dart)
+✅Native App Development (Flutter, ReactNative)
+
+
+I focus on developing and designing products for the web, from simple landing pages to full-fledged web apps. I have already created 5+ websites & mobile applications.
