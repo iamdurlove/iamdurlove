@@ -7,4 +7,4 @@ I am designed minded:
 ✅Native App Development (Flutter, ReactNative)
 
 
-I focus on developing and designing products for the web, from simple landing pages to full-fledged web apps. I have already created 5+ websites & mobile applications.
+I focus on developing and designing products for the web, from simple landing pages to full-fledged web apps. I have already worked in different projects. I am a learning freelancer.
