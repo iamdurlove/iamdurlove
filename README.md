@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://iamdurlove.io)
+[![MasterHead](https://user-images.githubusercontent.com/99876749/204871672-98eeac12-1d33-4f4a-9aa3-c0d820b6d942.gif)](https://github.com/iamdurlove)
 <h1 align="center">Hi 👋, I'm Durlav Parajulli</h1>
 <h3 align="center">A passionate Full Stack Developer from Nepal</h3>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdurlove&label=Profile%20views&color=0e75b6&style=flat" alt="iamdurlove" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iamdurlove" target="blank"><img src="https://img.shields.io/twitter/follow/iamdurlove?logo=twitter&style=for-the-badge" alt="iamdurlove" /></a> </p>
+<p align="left"> <a href="https://instagram.com/iamdurlove" target="blank"><img src="https://img.shields.io/twitter/follow/iamdurlove?logo=instagram&style=for-the-badge" alt="iamdurlove" /></a> </p>
 
 - 🌱 I’m currently learning **CI/CD Tools & DevOps**
 
