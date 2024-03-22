@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/99876749/204871672-98eeac12-1d33-4f4a-9aa3-c0d820b6d942.gif)](https://github.com/iamdurlove)
+[![MasterHead](https://raw.githubusercontent.com/iamdurlove/iamdurlove/main/Durlav%20Parajuli.png)](https://github.com/iamdurlove)
 <h1 align="center">Hi 👋, I'm Durlav Parajulli</h1>
 <h3 align="center">A passionate Full Stack Developer from Nepal</h3>
 
