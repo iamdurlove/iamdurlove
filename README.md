@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/iamdurlove/iamdurlove/main/Durlav%20Parajuli.png)](https://github.com/iamdurlove)
 <h1 align="center">Hi 👋, I'm Durlav Parajulli</h1>
-<h3 align="center">A passionate Full Stack Developer from Nepal</h3>
+<h3 align="center">A DevOps Enthusiast & Full Stack Developer</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
