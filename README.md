@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/iamdurlove/iamdurlove/main/Durlav%20Parajuli.png)](https://github.com/iamdurlove)
+[![MasterHead](https://raw.githubusercontent.com/iamdurlove/iamdurlove/main/cover.png)](https://github.com/iamdurlove)
 <h1 align="center">Hi 👋, I'm Durlav Parajulli</h1>
 <h3 align="center">A DevOps Enthusiast & Full Stack Engineer</h3>
 
